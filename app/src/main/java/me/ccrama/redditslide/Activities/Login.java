@@ -46,7 +46,7 @@ import me.ccrama.redditslide.util.LogUtil;
  * Created by ccrama on 5/27/2015.
  */
 public class Login extends BaseActivityAnim {
-    private static final String CLIENT_ID    = "KI2Nl9A_ouG9Qw";
+    private static final String CLIENT_ID    = "SQICk4n5LMHfhWzYlQWSWw";
     private static final String REDIRECT_URL = "http://www.ccrama.me";
     Dialog                           d;
     CaseInsensitiveArrayList subNames;

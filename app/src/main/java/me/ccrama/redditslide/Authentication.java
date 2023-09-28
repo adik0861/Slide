@@ -31,7 +31,7 @@ import okhttp3.Protocol;
  * Created by ccrama on 3/30/2015.
  */
 public class Authentication {
-    private static final String CLIENT_ID    = "KI2Nl9A_ouG9Qw";
+    private static final String CLIENT_ID    = "SQICk4n5LMHfhWzYlQWSWw";
     private static final String REDIRECT_URL = "http://www.ccrama.me";
     public static boolean           isLoggedIn;
     public static RedditClient      reddit;
